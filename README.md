@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=xiyuesaves&theme=github_dark_dimmed&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=xiyuesaves&theme=github-dark-dimmed&hide_border=true&locale=zh_Hans&card_width=648)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xiyuesaves&theme=github-dark-dimmed&hide_border=true&locale=zh_Hans&card_width=634)
